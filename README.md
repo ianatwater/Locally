@@ -12,3 +12,4 @@ for
 yuh
 local
 L
+cope
